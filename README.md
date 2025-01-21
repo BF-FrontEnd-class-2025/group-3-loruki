@@ -1,10 +1,11 @@
-# Name of project
+# Loruki
 
-> A longer description
+A platform for building applications of all types with modern architecture and
+scaling.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki](#loruki)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
