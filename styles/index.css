@@ -1,4 +1,13 @@
 @import url("./something.css");
+:root {
+  --primary-color: #047aed;
+  --secondary-color: #1c3fa8;
+  --dark-color: #002240;
+  --light-color: #f4f4f4;
+  --success-color: #5cb85c;
+  --error-color: #d9534f;
+}
+
 /* Showcase */
 .showcase {
   height: 400px;
