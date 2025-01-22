@@ -16,7 +16,7 @@
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: Lato, sans-serif;
   color: #333;
   line-height: 1.6;
 }
@@ -29,6 +29,7 @@ a {
   text-decoration: none;
   color: #333;
 }
+
 h1,
 h2 {
   font-weight: 300;
@@ -144,9 +145,29 @@ pre {
   left: 0;
   background: #fff;
   transform: skewY(-3deg);
-  -webkit-transform: skewY(-3deg);
-  -moz-transform: skewY(-3deg);
-  -ms-transform: skewY(-3deg);
+  transform: skewY(-3deg);
+  transform: skewY(-3deg);
+  transform: skewY(-3deg);
+}
+
+/* Stats */
+.stats {
+  padding-top: 100px;
+  animation: slideInFromBottom 1s ease-in;
+}
+
+.stats-heading {
+  max-width: 500px;
+  margin: auto;
+}
+
+.stats .grid h3 {
+  font-size: 35px;
+}
+
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
 }
 
 /* Animations */
@@ -189,14 +210,15 @@ pre {
     transform: translateX(0);
   }
 }
-@media (max-width: 1000px) {
+
+@media (width <= 1000px) {
   .showcase-form {
     width: 340px;
   }
 }
 
 /* Tablets and under */
-@media (max-width: 768px) {
+@media (width <= 768px) {
   .grid,
   .showcase .grid,
   .stats .grid,
@@ -248,7 +270,7 @@ pre {
 }
 
 /* Mobile */
-@media (max-width: 500px) {
+@media (width <= 500px) {
   .navbar {
     height: 110px;
   }
@@ -259,7 +281,7 @@ pre {
 
   .navbar ul {
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgb(0 0 0 / 10%);
   }
 
   .showcase-form {
