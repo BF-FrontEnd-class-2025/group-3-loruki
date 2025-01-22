@@ -4,6 +4,9 @@ Some boundaries around our project.
 
 ## External
 
+• Deadlines: The project must be delivered in 3 days • Technologies: `HTML`,
+`CSS`.
+
 <!--
   constraints coming from the outside that your team has no control over.
   These may include:
@@ -12,8 +15,6 @@ Some boundaries around our project.
   - technologies (sometimes a client will tell you what to use)
 -->
 
-## Internal: Involuntary
-
 <!--
   constraints that come from within your team, and you have no control over.
   They may include:
@@ -21,7 +22,10 @@ Some boundaries around our project.
   - amount of time available to work on the project
 -->
 
-## Internal: Voluntary
+## Internal
+
+• Convention: The team agreed using kebab case. • Working hours: The team
+decided to dedicate 7 hours daily to work on the project.
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
