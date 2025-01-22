@@ -1,55 +1,130 @@
-# Project Name
+# Loruki
 
-<!-- describe your project -->
+A platform for building applications of all types with modern architecture and
+scaling.
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Creating repo from the
+  [template](https://github.com/HackYourFutureBelgium/template-html-css)
+- Adding collaborators
+- Cloning the repo
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+<!-- NAVBAR -->
 
-## user story
+## Navigation Bar
 
-<!-- each issue created from this section will have the `for: user story` label -->
+This feature developed on a branch `navbar`
 
-> "as a ... i can ... so that ..."
+### HTML
 
-<!-- write any extra notes or description -->
+- Add `div` tag with class `navbar`, `container-flex`
+- Add `h1` tag with class `logo`
+- Add `ul` and `li` tags
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+### CSS
 
-### Logic: user story
+- Style `navbar` class with `flex` display, `height`, `margin` and `padding`
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+<!-- SHOWCASE -->
 
-### Interface: user story
+## Showcase
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+This feature developed on a branch `showcase`
 
-### Interaction: user story
+### HTML
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- Add `section` tag with `showcase` class
+- Add `div` tag with `container grid` class
+- Add `div` tag with `showcase-text` class
+- Add `div` tag with `showcase-form card` class
+- Add `div` tag with `form-control` class
+- Add `input` tag with `btn btn-primary` class
+- Add `a` tag with `btn btn-outline` class
+- Add `div` tag with `form-control` class
 
-### Documentation: user story
+### CSS
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- Style `showcase` with `overflow`, relative as `position`
+- Style `showcase-text` and `showcase-form` with animation
+- Style `form-control` with margin
+
+<!-- STATS -->
+
+## Stats
+
+This feature was developed on a branch `stats`
+
+### HTML
+
+- Add `section` tag with `stats` class
+- Add `div` tag with `container` class
+- Add `p` tag with `text-secondary` class
+
+### CSS
+
+- Style `stats` with animation
+- Style `stats-heading` with max width
+
+<!-- CLI -->
+
+## CLI
+
+This feature was developed on a branch `cli`
+
+### HTML
+
+- Add `section` tag with `cli` class
+- Add `div` tag with `container grid` class
+- Add `div` tag with `card` class
+
+### CSS
+
+- Style `card` with transition
+
+<!-- CLOUD -->
+
+## Cloud
+
+This feature was developed on a branch `cloud`
+
+### HTML
+
+- Add `div` tag with `container grid` class
+- Add `div` with `text-center` class
+- Add `h2` tag with `lg` class
+- Add `p` tag with `lead my-1` class
+
+<!-- LANGUAGES -->
+
+## Languages
+
+This feature was developed on a branch `languages`
+
+### HTML
+
+- Add `section` tag with `languages` class
+- Add `h2` tag with `md text-center my-2` class
+- Add `div` tag with `card` class
+
+### CSS
+
+- Style `languages` with flex-wrap, transition and add hover
+
+<!-- FOOTER -->
+
+## Footer
+
+This feature was developed on a branch `footer`
+
+### HTML
+
+- Add `div` tag with `container grid grid-3` class
+
+### CSS
+
+- Style `grid` with flex-start alignment
