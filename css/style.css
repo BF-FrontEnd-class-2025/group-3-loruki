@@ -1,3 +1,5 @@
+/* stylelint-disable no-descending-specificity */
+/* stylelint-disable declaration-block-no-duplicate-properties */
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
 
 :root {
@@ -170,6 +172,27 @@ pre {
   font-weight: bold;
 }
 
+/* Languages */
+
+.languages .flex {
+  flex-wrap: wrap;
+}
+
+.languages .card {
+  text-align: center;
+  margin: 18px 10px 40px;
+  transition: transform 0.2s ease-in;
+}
+
+.languages .card h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.languages .card:hover {
+  transform: translateY(-15px);
+}
+
 /* Cli */
 .cli .grid {
   grid-template-columns: repeat(3, 1fr);
@@ -187,6 +210,7 @@ pre {
 }
 
 /* Footer */
+
 .footer .social a {
   margin: 0 10px;
 }
