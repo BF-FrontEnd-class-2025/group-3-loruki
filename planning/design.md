@@ -10,11 +10,11 @@ The site is designed to be responsive across various devices, using a
 well-organized grid layout to ensure a comfortable user experience on both large
 and small screens.
 
-## Project's design
+## Main page
 
 ---
 
-![Wireframe](design.png)
+![Wireframe](./images/design.png)
 
 <!-- give an overview of your project's design -->
 <!-- describe the reasoning behind your group's design and wireframe -->
@@ -22,8 +22,18 @@ and small screens.
 
 ---
 
-## Wireframe
+## Wireframe main
 
-![Wireframe](Wireframe.png)
+![Wireframe](./images/Wireframe.png)
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+
+## Features Page
+
+![Design features](./images/design-features.png)
+
+---
+
+## Features wireframe
+
+<img src="./images/wireframe-features.png" width="580px">
