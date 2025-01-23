@@ -10,11 +10,11 @@
 
 ## Communication Schedule
 
-| Day      | How  | The topic of discussion |
-| -------  | ---- | ----------------------- |
-| Tuesday  | Zoom | Project planning        |
-| Wednesday| Zoom | Project planning        |
-| Thursday | Zoom | Development             |
+| Day       | How  | The topic of discussion |
+| --------- | ---- | ----------------------- |
+| Tuesday   | Zoom | Project planning        |
+| Wednesday | Zoom | Project planning        |
+| Thursday  | Zoom | Development             |
 
 ## Communication Channels
 
