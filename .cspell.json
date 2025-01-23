@@ -17,7 +17,8 @@
     "wireframe",
     "Loruki",
     "Viktoriia",
-    "Abrash"
+    "Abrash",
+    "stylelint"
   ],
   "ignorePaths": [
     "node_modules/**",
