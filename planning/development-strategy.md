@@ -15,7 +15,9 @@ scaling.
 ---
 
 ## Home
+
 <!-- NAVBAR -->
+
 ### Navigation Bar
 
 This feature developed on a branch `navbar`
@@ -217,12 +219,14 @@ This feature was developed on a branch `navbar-docs`.
 
 - Add a `div` tag with class `navbar` and `container-flex`.
 - Add an `h1` tag with class `logo` containing a link to `index.html`.
-- Add a `nav` element with `ul` and `li` tags for navigation items (`Home`, `Features`, `Docs`).
+- Add a `nav` element with `ul` and `li` tags for navigation items (`Home`,
+  `Features`, `Docs`).
 
 #### CSS
 
 - Style `navbar` with `flex` display for layout alignment.
-- Apply a height of `70px`, padding, and background color using the `--primary-color` variable.
+- Apply a height of `70px`, padding, and background color using the
+  `--primary-color` variable.
 - Add hover effects for links with a border-bottom.
 
 ---
@@ -259,14 +263,16 @@ This feature was developed on a branch `docs-main`.
     - Include headings (`h3`) for "Essentials" and "Deployment".
     - Add nested `nav` elements with `ul` and `li` tags for links.
   - The second `div` has class `card`:
-    - Include content sections with headings (`h2`, `h3`), paragraphs, and lists.
+    - Include content sections with headings (`h2`, `h3`), paragraphs, and
+      lists.
     - Add an alert box with class `alert alert-success`.
     - Add a button (`a` tag) with class `btn btn-primary`.
     - Include `pre` and `code` tags for command-line instructions.
 
 #### CSS
 
-- Style the `docs-main` grid for two-column layout on larger screens and one-column layout on smaller screens.
+- Style the `docs-main` grid for two-column layout on larger screens and
+  one-column layout on smaller screens.
 - Apply padding and background color to the card with the class `bg-light`.
 - Style the alert box with a success theme and include an icon (`i`).
 - Add hover effects to links within the navigation.
@@ -284,7 +290,8 @@ This feature was developed on a branch `footer-docs`.
 - Add three sections:
   - Branding: `h1` with the company name and a copyright note.
   - Navigation: `ul` with links to `Home`, `Features`, and `Docs`.
-  - Social Media: Links with FontAwesome icons for GitHub, Facebook, Instagram, and Twitter.
+  - Social Media: Links with FontAwesome icons for GitHub, Facebook, Instagram,
+    and Twitter.
 
 #### CSS
 
