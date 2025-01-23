@@ -10,11 +10,8 @@ scaling.
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
-  - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features](#features)
   - [Status](#status)
-  - [Inspiration](#inspiration)
   - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
@@ -23,55 +20,65 @@ scaling.
 
 ## General info
 
-> A short description
+A platform for building applications of all types with modern architecture and
+scaling.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![home](./images/screenshots/page1.png)
+
+home
+
+---
+
+![features](./images/screenshots/page2.png)
+
+features
+
+---
+
+![docs](./images/screenshots/page3.png)
+
+docs
+
+---
 
 ## Technologies
 
-- Node 14.16.0
+- Node v20.17.0
 - VSC code
-- JavaScript
-- ...
-- ...
-
-## Setup
-
-- `npm run start`
+- HTML
+- CSS
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<section class="cloud bg-primary my-2 py-2">
+      <div class="container grid">
+        <div class="text-center">
+          <h2 class="lg">Extreme Cloud Hosting</h2>
+          <p class="lead my-1">
+            Cloud hosting like you've never seen. Fast, efficient and scalable
+          </p>
+          <a href="features.html" class="btn btn-dark">Read More</a>
+        </div>
+        <img src="images/cloud.png" alt="" />
+      </div>
+    </section>
 ```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
 
 ## Status
 
-Project is: _in progress_
-
-## Inspiration
-
-Project by freeCodeCamp.org
+Project is: _completed_
 
 ## Contact
 
-By [Name]
+By:
+
+- [Emilia](https://github.com/emilia-12)
+- [Semen](https://github.com/bynd1u)
+- [Viktoriia](https://github.com/ViktoriiaMessi)
+- [Mohammed](https://github.com/Mohammed-ABR)
 
 ## Instructions for use
 
