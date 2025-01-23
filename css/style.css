@@ -1,3 +1,5 @@
+/* stylelint-disable no-descending-specificity */
+/* stylelint-disable declaration-block-no-duplicate-properties */
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
 
 :root {
@@ -189,6 +191,44 @@ pre {
 
 .languages .card:hover {
   transform: translateY(-15px);
+}
+
+/* Cli */
+.cli .grid {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.cli .grid > *:first-child {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+}
+
+/* Cloud */
+.cloud .grid {
+  grid-template-columns: 4fr 3fr;
+}
+
+/* Footer */
+
+.footer .social a {
+  margin: 0 10px;
+}
+
+.fa-github:hover {
+  color: #000000;
+}
+
+.fa-facebook:hover {
+  color: #1773ea;
+}
+
+.fa-instagram:hover {
+  color: #b32e87;
+}
+
+.fa-twitter:hover {
+  color: #1c9cea;
 }
 
 /* Animations */
