@@ -37,10 +37,6 @@ scaling.
 - ...
 - ...
 
-## Setup
-
-- `npm run start`
-
 ## Code Examples
 
 ```js
