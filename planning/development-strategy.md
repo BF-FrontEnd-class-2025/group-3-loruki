@@ -168,7 +168,7 @@ This feature was developed on a branch `head-features`.
 
 ### Sub-head
 
-This feature was developed on a branch `sub-head-features`.
+This feature was developed on a branch `features-sub-head`.
 
 #### HTML
 
@@ -176,21 +176,6 @@ This feature was developed on a branch `sub-head-features`.
 - Include a `div` container with class `grid` for layout.
 - Add a heading (`h1`) with class `md` and a descriptive paragraph.
 - Include an image element (`img`) for additional feature illustration.
-
-#### CSS
-
-- Apply a light background color and consistent padding.
-- Use grid layout for alignment between text and image.
-- Style the image to ensure responsiveness.
-
----
-
-### Main
-
-This feature was developed on a branch `features-main`.
-
-#### HTML
-
 - Add a `section` tag with class `features-main my-2`.
 - Include a `div` container with class `grid grid-3`.
 - Add multiple `div` tags with class `card flex` for individual features:
@@ -202,6 +187,9 @@ This feature was developed on a branch `features-main`.
 - Style the `features-main` section with proper grid spacing.
 - Add hover effects to `card` elements for interactivity.
 - Align icons and text within the cards using `flex` display.
+- Apply a light background color and consistent padding.
+- Use grid layout for alignment between text and image.
+- Style the image to ensure responsiveness.
 
 ---
 
