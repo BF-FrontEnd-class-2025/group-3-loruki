@@ -14,7 +14,7 @@ and small screens.
 
 ---
 
-![Wireframe](./images/design.png)
+![Design main page](./images/design.png)
 
 <!-- give an overview of your project's design -->
 <!-- describe the reasoning behind your group's design and wireframe -->
@@ -24,16 +24,24 @@ and small screens.
 
 ## Wireframe main
 
-![Wireframe](./images/Wireframe.png)
+![Wireframe main page](./images/Wireframe.png)
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
 
 ## Features Page
 
-![Design features](./images/design-features.png)
+![Design features page](./images/design-features.png)
 
 ---
 
 ## Features wireframe
 
 <img src="./images/wireframe-features.png" width="580px">
+
+## Docs page
+
+![Design docs page](./images/design-docs.png)
+
+## Docs wireframe
+
+<img src="./images/wireframe-docs.png" width="600px">
