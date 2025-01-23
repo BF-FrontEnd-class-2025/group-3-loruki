@@ -30,6 +30,36 @@ create your own!
       and copyright information so that I can easily access additional resources
       and verify the website's authenticity.
 
+## Features
+
+### Must-Haves
+
+- [ ] As a user, I want to navigate easily between pages (Home, Features, Docs)
+  so that I can quickly access the information I need.
+- [ ] As a user, I want to see a clear heading and introduction to the features
+  so that I can understand the purpose of this page.
+- [ ] As a user, I want to learn about the platform's core idea so that I can
+  understand what makes it unique and valuable.
+- [ ] As a user, I want to see specific feature details with icons and descriptions
+  so that I can understand the functionality offered by the platform.
+- [ ] As a user, I want to see additional navigation links and social media icons
+  so that I can explore other pages or follow the platform on social media.
+
+## Docs
+
+### Must-Haves
+
+- [ ] As a user, I want to see links to the Home, Features, and Docs pages so
+  that I can quickly navigate between the main sections of the website.
+- [ ] As a user, I want to immediately understand that I’m on the documentation
+  page and see a brief description of its purpose.
+- [ ] As a user, I want to find helpful guides and instructions, categorized into
+  sections like Essentials and Deployment, so that I can easily learn about
+  the platform and get started.
+- [ ] As a user, I want access to key website information, navigation links,
+  and social media, so that I can quickly find additional details or connect
+  with the developers.
+
 ### Should-Haves
 
 > these will complete the user experience, but are not necessary
@@ -45,18 +75,3 @@ create your own!
 - [ ] As a ... I want to ... so that ...
   - _Given [context] when [a specific action is performed] then [a set of
     consequences should occur]_
-
-## Features
-
-### Must-Haves
-
-- [ ] As a user, I want to navigate easily between pages (Home, Features, Docs)
-  so that I can quickly access the information I need.
-- [ ] As a user, I want to see a clear heading and introduction to the features
-  so that I can understand the purpose of this page.
-- [ ] As a user, I want to learn about the platform's core idea so that I can
-  understand what makes it unique and valuable.
-- [ ] As a user, I want to see specific feature details with icons and descriptions
-  so that I can understand the functionality offered by the platform.
-- [ ] As a user, I want to see additional navigation links and social media icons
-  so that I can explore other pages or follow the platform on social media.
