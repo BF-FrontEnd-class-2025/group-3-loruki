@@ -5,7 +5,9 @@ level are not necessarily in order, it's up to your group to decide how they fit
 into your strategy. These are also just suggestion, feel free to change them or
 create your own!
 
-## Must-Haves
+## Home
+
+### Must-Haves
 
 > These are necessary for basic usability
 
@@ -28,7 +30,7 @@ create your own!
       and copyright information so that I can easily access additional resources
       and verify the website's authenticity.
 
-## Should-Haves
+### Should-Haves
 
 > these will complete the user experience, but are not necessary
 
@@ -36,10 +38,25 @@ create your own!
   - _Given [context] when [a specific action is performed] then [a set of
     consequences should occur]_
 
-## Could-Haves
+### Could-Haves
 
 > would be really cool ... if there's time
 
 - [ ] As a ... I want to ... so that ...
   - _Given [context] when [a specific action is performed] then [a set of
     consequences should occur]_
+
+## Features
+
+### Must-Haves
+
+- [ ] As a user, I want to navigate easily between pages (Home, Features, Docs)
+  so that I can quickly access the information I need.
+- [ ] As a user, I want to see a clear heading and introduction to the features
+  so that I can understand the purpose of this page.
+- [ ] As a user, I want to learn about the platform's core idea so that I can
+  understand what makes it unique and valuable.
+- [ ] As a user, I want to see specific feature details with icons and descriptions
+  so that I can understand the functionality offered by the platform.
+- [ ] As a user, I want to see additional navigation links and social media icons
+  so that I can explore other pages or follow the platform on social media.
